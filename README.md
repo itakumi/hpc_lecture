@@ -1,5 +1,7 @@
 # hpc_lecture
 
+学籍番号21M30985 
+
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
