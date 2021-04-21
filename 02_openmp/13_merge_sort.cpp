@@ -1,6 +1,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
+#include <omp.h>
 
 template<class T>
 void merge(std::vector<T>& vec, int begin, int mid, int end) {
